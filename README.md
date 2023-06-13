@@ -7,5 +7,5 @@ ensure to replace the placeholders (<TENANCY_OCID>, <USER_OCID>, <API_KEY_FINGER
   It specifies the availability domain, compartment, display name, shape, SSH public key for accessing the instance,
   VM cluster ID, and the database home configuration.
     
-  oci_database_db_node: This resource defines the individual database node within the Oracle Database system.
+    oci_database_db_node: This resource defines the individual database node within the Oracle Database system.
   It specifies the database home ID, availability domain, compartment, hostname, VM cluster ID, and the VNIC ID for network connectivity.
